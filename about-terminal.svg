@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img" aria-label="Rabia Ceylan developer terminal card">
+<rect width="1000" height="360" rx="18" fill="#171326"/>
+<rect x="2" y="2" width="996" height="356" rx="16" fill="none" stroke="#6B438C" stroke-width="3"/>
+<circle cx="35" cy="35" r="8" fill="#FF6B9D"/><circle cx="61" cy="35" r="8" fill="#F5C76B"/><circle cx="87" cy="35" r="8" fill="#8CE0B0"/>
+<text x="970" y="43" text-anchor="end" font-family="monospace" font-size="19" fill="#C4A1EA">rabia@developer ~</text>
+<path d="M25 65H975" stroke="#4C3764" stroke-width="2"/>
+<g font-family="monospace" font-size="25">
+<text x="38" y="116" fill="#D6A1FF">$ focus</text><text x="300" y="116" fill="#F1E7FF">Full-Stack Development</text>
+<text x="38" y="171" fill="#D6A1FF">$ interests</text><text x="300" y="171" fill="#F1E7FF">AI · Data Science · Cybersecurity</text>
+<text x="38" y="226" fill="#D6A1FF">$ mission</text><text x="300" y="226" fill="#F1E7FF">Learn. Build. Improve.</text>
+<text x="38" y="306" fill="#A7F3D0">✓ Always curious, always building_</text>
+</g>
+</svg>
