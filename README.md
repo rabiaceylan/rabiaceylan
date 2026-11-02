@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="assets/banner.png" alt="Rabia Ceylan - Pixel Art Banner" width="100%" />
+<img src="banner.png" alt="Rabia Ceylan - Pixel Art Banner" width="100%" />
 
 <br/>
 
@@ -21,18 +21,7 @@
 
 Hey! I'm Rabia, a Software Engineering graduate who loves turning ideas into real applications.
 
-```text
-rabia@developer:~$ whoami
-
-  Name       : Rabia Ceylan
-  Role       : Software Engineer
-  Focus      : Full-Stack Development
-  Interests  : AI · Data Science · Cybersecurity
-  Mission    : Learn. Build. Improve.
-
-rabia@developer:~$ echo "Always curious, always building."
-Always curious, always building.
-```
+<img src="about-terminal.svg" alt="About Rabia Ceylan - Developer Terminal" width="100%" />
 
 I'm currently exploring new technologies, strengthening my skills, and building projects that challenge me to grow.
 
@@ -81,7 +70,7 @@ A browser-based, one-to-one video calling and instant messaging application.
 **Features**
 - Real-time video and audio communication
 - Instant messaging with WebSocket
-- Private meeting rooms with room codes
+- Meeting rooms with shareable room codes
 - Camera and microphone controls
 - Browser-based access without installation
 
