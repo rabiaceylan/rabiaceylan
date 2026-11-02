@@ -1,10 +1,25 @@
+
+<div align="center">
+
 # Hi there, I'm Rabia! 👋
 
-### 👩‍💻 Software Engineering Graduate | Aspiring Full-Stack Developer
+### 💜 Software Engineer | Full-Stack Development
 
-I'm a Software Engineering graduate based in Türkiye, passionate about building user-friendly web applications, solving real-world problems, and continuously learning new technologies.
+*Building meaningful digital experiences, one project at a time.*
 
-I'm currently improving my web development skills and exploring Artificial Intelligence and Data Science.
+![Profile Views](https://komarev.com/ghpvc/?username=rabiaceylan&color=blueviolet&style=flat-square)
+
+</div>
+
+### 👩‍💻 About Me
+
+- 🎓 Software Engineering graduate based in Kocaeli, Türkiye
+- 💻 Interested in full-stack web development
+- 🌱 Currently improving my JavaScript, React and Node.js skills
+- 🤖 Exploring Artificial Intelligence and Data Science
+- 🚀 Building projects and expanding my portfolio
+- 💼 Open to junior software engineering opportunities
+
 
 
 ## ⚡ Tech Stack
@@ -38,4 +53,12 @@ I'm currently improving my web development skills and exploring Artificial Intel
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+
+
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rabia-ceylan-4b27ab317/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rabiaceylan)
 
