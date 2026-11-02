@@ -1,11 +1,13 @@
 
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Hello+there!+%F0%9F%91%8B;My+name+is+Rabia+Ceylan;Welcome+to+my+GitHub+profile!" alt="Typing animation" />
+<img src="assets/banner.png" alt="Rabia Ceylan pixel art banner" width="100%" />
 
-</div>
+<br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=C084FC&center=true&vCenter=true&width=750&height=60&lines=Hello+there!+%F0%9F%91%8B;I'm+Rabia+Ceylan;Welcome+to+my+little+corner+of+GitHub!" alt="Animated introduction" />
+
+### 💜 Software Engineer | Full-Stack Development
 
 *Building meaningful digital experiences, one project at a time.*
 
@@ -13,16 +15,21 @@
 
 </div>
 
-### 👩‍💻 About Me
+---
 
-- 🎓 Software Engineering graduate based in Kocaeli, Türkiye
-- 💻 Interested in full-stack web development
-- 🌱 Currently improving my JavaScript, React and Node.js skills
-- 🤖 Exploring Artificial Intelligence and Data Science
-- 🚀 Building projects and expanding my portfolio
-- 💼 Open to junior software engineering opportunities
+## 👩‍💻 A Little About Me
 
+Hey! I'm Rabia, a Software Engineering graduate who enjoys turning ideas into real, working applications.
 
+I'm curious about how things work, love exploring new technologies, and enjoy the process of building something from scratch. My interests span **full-stack development, artificial intelligence, data science, and cybersecurity**.
+
+I'm particularly interested in how intelligent systems and secure software can work together to create reliable, meaningful solutions.
+
+Right now, I'm focused on strengthening my technical skills, exploring new ideas, and building projects that challenge me to think differently and grow as a developer.
+
+*✨ Always curious, always learning, always building.*
+
+---
 
 ## ⚡ Tech Stack
 
@@ -56,11 +63,39 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
+---
 
+## 🚀 Featured Project
 
+### 💬 [Connecta — Real-Time Video Chat](https://github.com/rabiaceylan/connecta)
 
-### 📫 Let's Connect
+A browser-based, one-to-one video calling and instant messaging application built with WebRTC, WebSocket, Node.js, and Express.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rabia-ceylan-4b27ab317/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rabiaceylan)
+**Tech:** WebRTC · WebSocket · Node.js · Express
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=render&logoColor=white)](https://connecta-qxkx.onrender.com)
+[![Source Code](https://img.shields.io/badge/Source_Code-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rabiaceylan/connecta)
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabiaceylan&layout=compact&theme=tokyonight&hide_border=true&title_color=C084FC" alt="Most used languages" />
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rabia-ceylan-4b27ab317/)
+
+---
+
+<div align="center">
+
+*💜 Thanks for visiting my little corner of GitHub!*
+
+</div>
