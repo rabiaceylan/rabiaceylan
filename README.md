@@ -1,13 +1,11 @@
 
 <div align="center">
 
-<img src="banner.png" alt="Rabia Ceylan - Pixel Art Banner" width="100%" />
+<img src="assets/banner.png" alt="Rabia Ceylan - Pixel Art Banner" width="100%" />
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=C084FC&center=true&vCenter=true&width=750&height=40&lines=Hello+there!+%F0%9F%91%8B;I'm+Rabia+Ceylan;Welcome+to+my+little+corner+of+GitHub!" alt="Animated introduction" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=C084FC&center=true&vCenter=true&width=750&height=60&lines=Hello+there!+%F0%9F%91%8B;I'm+Rabia+Ceylan;Welcome+to+my+little+corner+of+GitHub!" alt="Animated introduction" />
-
-### 💜 Software Engineer | Full-Stack Development
+**💜 Software Engineer | Full-Stack Development**
 
 *Building meaningful digital experiences, one project at a time.*
 
