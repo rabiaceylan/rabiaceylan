@@ -1,9 +1,11 @@
 
+
 <div align="center">
 
-# Hi there, I'm Rabia! 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Hello+there!+%F0%9F%91%8B;My+name+is+Rabia+Ceylan;Welcome+to+my+GitHub+profile!" alt="Typing animation" />
 
-### 💜 Software Engineer | Full-Stack Development
+</div>
+
 
 *Building meaningful digital experiences, one project at a time.*
 
