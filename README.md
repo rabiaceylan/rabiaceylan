@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="assets/banner.png" alt="Rabia Ceylan pixel art banner" width="100%" />
+<img src="banner.png" alt="Rabia Ceylan pixel art banner" width="100%" />
 
 <br/>
 
