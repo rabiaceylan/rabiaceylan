@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="banner.png" alt="Rabia Ceylan pixel art banner" width="100%" />
+<img src="assets/banner.png" alt="Rabia Ceylan - Pixel Art Banner" width="100%" />
 
 <br/>
 
@@ -17,21 +17,28 @@
 
 ---
 
-## 👩‍💻 A Little About Me
+## 💜 01 / About the Developer
 
-Hey! I'm Rabia, a Software Engineering graduate who enjoys turning ideas into real, working applications.
+Hey! I'm Rabia, a Software Engineering graduate who loves turning ideas into real applications.
 
-I'm curious about how things work, love exploring new technologies, and enjoy the process of building something from scratch. My interests span **full-stack development, artificial intelligence, data science, and cybersecurity**.
+```text
+rabia@developer:~$ whoami
 
-I'm particularly interested in how intelligent systems and secure software can work together to create reliable, meaningful solutions.
+  Name       : Rabia Ceylan
+  Role       : Software Engineer
+  Focus      : Full-Stack Development
+  Interests  : AI · Data Science · Cybersecurity
+  Mission    : Learn. Build. Improve.
 
-Right now, I'm focused on strengthening my technical skills, exploring new ideas, and building projects that challenge me to think differently and grow as a developer.
+rabia@developer:~$ echo "Always curious, always building."
+Always curious, always building.
+```
 
-*✨ Always curious, always learning, always building.*
+I'm currently exploring new technologies, strengthening my skills, and building projects that challenge me to grow.
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ 02 / Tech Stack
 
 ### 🎨 Frontend
 
@@ -65,30 +72,46 @@ Right now, I'm focused on strengthening my technical skills, exploring new ideas
 
 ---
 
-## 🚀 Featured Project
+## 🚀 03 / Featured Project
 
 ### 💬 [Connecta — Real-Time Video Chat](https://github.com/rabiaceylan/connecta)
 
-A browser-based, one-to-one video calling and instant messaging application built with WebRTC, WebSocket, Node.js, and Express.
+A browser-based, one-to-one video calling and instant messaging application.
 
-**Tech:** WebRTC · WebSocket · Node.js · Express
+**Features**
+- Real-time video and audio communication
+- Instant messaging with WebSocket
+- Private meeting rooms with room codes
+- Camera and microphone controls
+- Browser-based access without installation
+
+**Built with:** WebRTC · WebSocket · Node.js · Express
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=render&logoColor=white)](https://connecta-qxkx.onrender.com)
 [![Source Code](https://img.shields.io/badge/Source_Code-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rabiaceylan/connecta)
 
+<details>
+<summary>📸 View Connecta Screenshots</summary>
+
+<br/>
+
+**Home Screen**
+
+<img src="https://raw.githubusercontent.com/rabiaceylan/connecta/main/docs/screenshots/home.png" alt="Connecta home screen" width="100%" />
+
+<br/>
+
+**Meeting Room**
+
+<img src="https://raw.githubusercontent.com/rabiaceylan/connecta/main/docs/screenshots/meeting.png" alt="Connecta meeting room" width="100%" />
+
+</details>
+
 ---
 
-## 📊 GitHub Activity
+## 💌 04 / Let's Connect
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabiaceylan&layout=compact&theme=tokyonight&hide_border=true&title_color=C084FC" alt="Most used languages" />
-
-</div>
-
----
-
-## 📫 Let's Connect
+I'm always happy to connect with fellow developers, exchange ideas, and explore new opportunities.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rabia-ceylan-4b27ab317/)
 
