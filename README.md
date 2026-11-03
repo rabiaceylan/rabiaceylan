@@ -9,8 +9,6 @@
 
 *Building meaningful digital experiences, one project at a time.*
 
-![Profile Views](https://komarev.com/ghpvc/?username=rabiaceylan&color=blueviolet&style=flat-square)
-
 </div>
 
 ---
